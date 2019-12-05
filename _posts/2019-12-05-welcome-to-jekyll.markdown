@@ -1,25 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-12-05 12:55:51 +0100
-categories: jekyll update
+title:  "Añi, pincha aquí"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Ey
+##¿Sabes què?
+###He creado una pagina web para subir todo lo que te escribo y tenerlo asi localizado.
+#### Parece una idea descabellada pero...
+##Lo hago porque puedo
+#Y Punto!
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> Ojalá
+> ojala se te acabara la mirada constante,
+> la palabra precisa,
+> la sonrisa perfecta,
+> ojala pasara algo que te borre de pronto,
+> una luz cegadora,
+> disparo de nieve,
+> ojala que al menos me llevase la muerte,
+> para no verte pronto,
+> para no verte siempre,
+> en todos los segundos,
+> en todas las visiones,
+> ojala no pudiera ni tocarte en canciones,
+> ojala la lluvia deje ser un milagro,
+> aunque baja por tu cuerpo,
+> ojala la tierra no te bese los pasos,
+> ojala la luna pudiera salir sin ti,
+> ojala el sol dejase de gritar tu nombre
+> y pudiera ver la vida
+> con los ojos de un niño,
+> sin esperar a que me llegue
+> esa llamada tuya
+> te juro que no
