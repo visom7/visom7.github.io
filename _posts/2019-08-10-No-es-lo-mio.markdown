@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Solo piento en ti"
+title:  "No es lo mío"
 ---
 
 >Pero no es lo mío...
