@@ -2,7 +2,7 @@
 layout: post
 title: Tic, tic, tic
 ---
-> ### ¿Que espero?  
+> ### ¿Qué espero?  
 >Me lo preguntas tú. Sabes de sobra que espero, sabes perfectamente que espero. Sé que claramente no voy a obtener lo que espero.  
 >Pero claro, lo último que se pierde es la esperanza y además ya te encargas tú de recordamerlo, por si en algún momento se me hubiera olvidado.  
 > ### ¿Realmente tengo esperanza?  
