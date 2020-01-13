@@ -2,12 +2,12 @@
 layout: post
 title: Tic, tic, tic
 ---
-> ###¿Que espero?  
+> ### ¿Que espero?  
 >Me lo preguntas tú. Sabes de sobra que espero, sabes perfectamente que espero. Sé que claramente no voy a obtener lo que espero.  
 >Pero claro, lo último que se pierde es la esperanza y además ya te encargas tú de recordamerlo, por si en algún momento se me hubiera olvidado.  
-> ###¿Realmente tengo esperanza?  
+> ### ¿Realmente tengo esperanza?  
 >La verdad es que no lo sé. De hecho si del saber dependo estoy bien jodido. Tengo presente que me escuchas, que me entiendes, que algo hace click ahi dentro cuando hablo, no se si en tu cabeza o en tu pecho, pero escucho la aguja moverse, como cuando intentas dormir en una casa que no es la tuya y no logras conciliar el sueño porque sientes la presencia de un reloj en alguna parte y como va contando los segundos que pasan.  
-> ###tic, tic, tic  
+> ### tic, tic, tic  
 >Los ojos como platos, clavados en el techo como si el mismo fuera capaz de dibujar de alguna manera mágica tu rostro sobre ese enorme lienzo en blanco. Me giro, que de algua manera estaban empezando a aparecer trazos sobre la pintura blanca y no vaya a ser que por una vez en mi vida dibuje bien. Ahora todo es negro y como si fuera un cartel de neón aparece el brillo de tus ojos al final de la más profunda oscuridad. Lo reconocería aún a años luz de distancia y si me tengo que tirar a ese abismo oscuro que lo rodea, con tal de verlo mas de cerca lo haré.  
 >Pero la realidad es que sigo tumbando en la cama y no hay abismo. No hay pinceles para dibujar en el techo. No sé que es lo que espero.  
 >Espero que cuando digo que te veo en una semana o dos me saques de mi error.  
